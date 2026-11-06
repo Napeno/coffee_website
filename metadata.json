@@ -1,0 +1,6 @@
+{
+  "name": "Trang Coffee - Cà Phê Thủ Công Đặc Sản",
+  "description": "Website thương mại điện tử chuyên cung cấp cà phê đặc sản Việt Nam, từ Arabica Cầu Đất, Fine Robusta Đắk Lắk đến cà phê phin truyền thống và túi lọc tiện lợi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
